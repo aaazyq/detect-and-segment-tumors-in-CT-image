@@ -9,7 +9,9 @@ Our design also emphasizes interaction and ease of use, with the development eff
 
 ![Alt text](image/image065.png?raw=true "Title")
 
-![Alt text](image/image079.gif?raw=true "Title")
+![Alt text](image/image068.png?raw=true "contour")
+
+![Alt text](image/image079.gif?raw=true "3d")
 
 ![Alt text](image/image80.gif?raw=true "Title")
 
